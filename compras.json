@@ -1,0 +1,26 @@
+[
+    {
+        "cliente_nombre": "nicole",
+        "evento_nombre": "tini",
+        "cantidad_entradas": 3,
+        "monto_total": 3000
+    },
+    {
+        "cliente_nombre": "santi",
+        "evento_nombre": "tini",
+        "cantidad_entradas": 8,
+        "monto_total": 8000
+    },
+    {
+        "cliente_nombre": "zoe",
+        "evento_nombre": "lolla",
+        "cantidad_entradas": 5,
+        "monto_total": 20000
+    },
+    {
+        "cliente_nombre": "mica",
+        "evento_nombre": "lolla",
+        "cantidad_entradas": 8,
+        "monto_total": 32000
+    }
+]

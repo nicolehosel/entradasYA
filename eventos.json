@@ -1,0 +1,16 @@
+{
+    "tini": {
+        "nombre": "tini",
+        "ciudad": "buenos aires",
+        "tipo": "concierto",
+        "precio": 1000,
+        "cantidad_entradas_disponibles": 3989
+    },
+    "lolla": {
+        "nombre": "lolla",
+        "ciudad": "festival",
+        "tipo": "festival",
+        "precio": 4000,
+        "cantidad_entradas_disponibles": 499987
+    }
+}
