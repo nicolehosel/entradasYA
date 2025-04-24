@@ -186,24 +186,12 @@ while True:
 
         elif seleccione_opcion == 8:
             print("Saliendo del sistema")
-            import json
-
-            # Guardar listaCompras
-            with open("compras.json", "w") as f:
-                json.dump([c.__dict__ for c in listaCompras], f, indent=4)
-
-            # Guardar dictEvento
-            with open("eventos.json", "w") as f:
-                json.dump({nombre: e.__dict__ for nombre, e in dictEvento.items()}, f, indent=4)
-
-            print("Datos guardados correctamente. Saliendo del sistema...")
-
             break
-
-
 
     except ValueError:
         print("Error: Ingrese un valor valido")
+
+
 
 
 
